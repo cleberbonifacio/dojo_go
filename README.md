@@ -20,3 +20,18 @@ Este repositório contém exercícios e exemplos desenvolvidos durante sessões 
    ```bash
    git clone https://github.com/cleberbonifacio/dojo_go.git
    cd dojo_go
+
+2. **Clonar o repositório:**
+
+   ```bash
+   go run main.go
+
+3. **Ou construir e executar o contêiner Docker::**
+
+```bash
+docker build -t dojo-go .
+docker run --rm dojo-go
+
+
+
+
