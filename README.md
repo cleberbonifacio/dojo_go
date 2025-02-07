@@ -28,9 +28,9 @@ Este repositório contém exercícios e exemplos desenvolvidos durante sessões 
 
 3. **Ou construir e executar o contêiner Docker::**
 
-```bash
-docker build -t dojo-go .
-docker run --rm dojo-go
+   ```bash
+   docker build -t dojo-go .
+   docker run --rm dojo-go
 
 
 
