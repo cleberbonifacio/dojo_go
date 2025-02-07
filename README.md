@@ -21,7 +21,7 @@ Este repositório contém exercícios e exemplos desenvolvidos durante sessões 
    git clone https://github.com/cleberbonifacio/dojo_go.git
    cd dojo_go
 
-2. **Clonar o repositório:**
+2. **Rodar o projeto:**
 
    ```bash
    go run main.go
